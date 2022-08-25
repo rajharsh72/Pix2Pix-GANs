@@ -35,3 +35,9 @@
     takes both the source image (e.g. satellite photo) and the target image
     (e.g. Google maps image) as input and predicts the likelihood of whether
     target image is real or a fake translation of the source image.
+    
+    
+
+# Output Images:
+![image](https://user-images.githubusercontent.com/75540307/186744644-bd7127a3-31bb-4017-ae22-896a7504edfb.png)
+
